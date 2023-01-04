@@ -10,6 +10,15 @@
 [submodule "corne-light/pcb/keebio-components"]
 	path = corne-light/pcb/keebio-components
 	url = git@github.com:keebio/keebio-components.git
+[submodule "corne-light-choch-mini-trackpoint/pcb/kbd"]
+	path = corne-light-choch-mini-trackpoint/pcb/kbd
+	url = git@github.com:hochshi/kbd.git
+[submodule "corne-light-choch-mini-trackpoint/pcb/keebio-components"]
+	path = corne-light-choch-mini-trackpoint/pcb/keebio-components
+	url = git@github.com:keebio/keebio-components.git
+[submodule "corne-light-choch-mini-trackpoint/pcb/keebio-parts"]
+	path = corne-light-choch-mini-trackpoint/pcb/keebio-parts
+	url = git@github.com:keebio/Keebio-Parts.pretty.git
 [submodule "corne-light-choch-mini/pcb/kbd"]
 	path = corne-light-choch-mini/pcb/kbd
 	url = git@github.com:hochshi/kbd.git
