@@ -1,13 +1,12 @@
 # Corne keyboard
 
 The Corne Choc-mini keyboard is a split keyboard with 3x5 column staggered keys
-and 3 thumb keys, based on [Corne](https://github.com/foostan/crkbd).
-Crkbd stands for Corne Keyboard.
+and 3 thumb keys, based on [Corne](https://github.com/foostan/crkbd). The inspiration came from David Barr's [Choc-Spaced-Corne](https://github.com/davidphilipbarr/Choc-Spaced-Corne).
 
 ## Lineup
--corne-light
+- corne-light: 
   Light-weight Corne for choc-mini switches with choc spacing (Easy build with a simple PCB).
--corne-light-track-point
+- corne-light-track-point: 
   Light-weight Corne for choc-mini switches with choc spacing and a trackpoint under the right thumb (or far-index) (Not ready yet).
 
 ### Future Plans
